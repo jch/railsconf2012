@@ -10,3 +10,4 @@ love. Topics covered will include pubsub with redis or faye, building
 evented rack applications, and running evented applications alongside
 existing Rails apps.
 
+[Speaker Deck slides](http://speakerdeck.com/u/jch/p/evented-ruby-vs-nodejs)
